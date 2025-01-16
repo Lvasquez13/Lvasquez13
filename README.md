@@ -1,8 +1,7 @@
-<h1 align="center"><b>Hi , I'm Luis Vásquez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# <h1 align="center"><b>Hi , I'm Luis Vásquez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 **About me**
-<br>
-<br>
+
 
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
@@ -11,61 +10,88 @@
 - I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
 
-<br>
+# ¡Hola, soy Bastian Landskron! 👋
+
+## 🌟 Sobre Mí
+¡Bienvenido a mi espacio en GitHub! Soy un desarrollador **Full Stack** y entusiasta de la **Inteligencia Artificial**, con una misión clara en 2025: transformar ideas innovadoras en soluciones tecnológicas de vanguardia. Trabajo constantemente en proyectos que combinan **Machine Learning**, **Deep Learning**, y **Data Science** para resolver desafíos del mundo real. 🚀
+
+- 🌍 **Ubicación:** Chile  
+- 💼 **Actualmente trabajando como:** Facilitador de Desarrollo de Aplicaciones Full Stack Python & Desarrollador Desktop - Web - Mobile  
+- 🌐 **Sitio web:** [blandskron.com](https://blandskron.com)  
+- 📫 **Correo:** bastianlandskronfreelancer@gmail.com  
+
 ---
 
-<br>
-<br>
-<br>
+## ⚙️ Tecnologías y Herramientas
+¡Estas son algunas de las tecnologías que uso para dar vida a mis ideas!  
 
------
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
-<br>
+### Frameworks y Librerías
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
+### Bases de Datos y DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-<ul>
+---
 
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
+## 🚀 Proyectos Destacados
+### 🔹 **Plataforma de Gestión Judicial**
+Desarrollé una aplicación avanzada que mejora los procesos legales mediante el uso de tecnologías modernas.  
+- **Stack:** Angular, Java, SQL  
+- **Impacto:** Reducción de un 30% en tiempos de respuesta para casos judiciales.  
 
-<br>
+### 🔹 **Curso de Full Stack Python**
+Lideré la creación de un curso completo de Full Stack Python con un enfoque práctico.  
+- **Módulos Incluidos:** Desarrollo Front-End, Backend con Django, Bases de Datos  
+- **Resultado:** Tasa de finalización del 95% y recomendaciones destacadas.  
 
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
+---
 
-<br>
+## 🏆 Certificaciones
+- **GENERATIVE AI PROFESSIONAL CERTIFICATION GAIPC™**
+- **SCRUM MASTER PROFESSIONAL CERTIFICATE SMPC**  
+- **SCRUM FOUNDATION PROFESSIONAL CERTIFICATION SFPC™**  
+- **PROMPT ENGINEERING FOUNDATION PROFESSIONAL CERTIFIC™**  
+- **SCRUM DEVELOPER PROFESSIONAL CERTIFICATION SDPC**  
 
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
+---
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
+## 🌐 Idiomas
+- **Español:** Nativo  
+- **Inglés:** Competencia profesional intermedia  
+- **Francés:** Nivel intermedio en progreso  
+- **Criollo haitiano:** Profesional completo  
+
+---
+
+## 🤝 Conecta Conmigo
+- **LinkedIn:** [Bastian Landskron](https://www.linkedin.com/in/blandskron)  
+- **Sitio web:** [blandskron.com](https://blandskron.com)  
+
+---
+
+## 📈 GitHub Stats
+![Bastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=blandskron&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blandskron&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blandskron&theme=tokyonight)  
 
 
 
-<br>
+
 
 Credit: [Abdul Khalid](https://github.com/Lvasquez13)
 
 Last Edited on: 09/11/2022
 
-<br><br>
