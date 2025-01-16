@@ -1,4 +1,4 @@
-# # ¡Hola, soy Luis Vásquez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# ¡Hola, soy Luis Vásquez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ## ¡Bienvenido a mi espacio en GitHub!
 Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los datos y su increíble potencial para resolver problemas del mundo real. Encuentro inspiración en descubrir las relaciones entre los datos y transformarlas en soluciones significativas.
