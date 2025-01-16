@@ -28,6 +28,11 @@ Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los d
 ![Static Badge](https://img.shields.io/badge/Pandas-b1e1e9?style=for-the-badge&logo=pandas&logoColor=%23150458)
 ![Static Badge](https://img.shields.io/badge/numpy-b1e1e9?style=for-the-badge&logo=numpy&logoColor=%23013243)
 
+### Front-End Development
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### Bases de Datos 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -39,9 +44,6 @@ Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los d
 ---
 
 ## 🏆 Certificaciones
-
-
-
 - **[DESARROLLADOR DE APLICACIONES FULL STACK JAVA TRAINEE™](https://eligemejor.sence.cl/PerfilNatural/DescargarCertificado?idCurso=BOTIC-SOFOF-20-14-13-0004&idFederacion=5&rutAsistido=)**
 - **[DESARROLLO DE APLICACIONES FULL STACK JAVASCRIPT TRAINEE](https://eligemejor.sence.cl/PerfilNatural/DescargarCertificado?idCurso=RLAB-21-02-05-0009-2&idFederacion=5&rutAsistido=)**  
 - **[DESARROLLO DE APLICACIONES FULL STACK PYTHON TRAINEE™](https://eligemejor.sence.cl/PerfilNatural/DescargarCertificado?idCurso=RLAB-23-02-13-0025-2&idFederacion=5&rutAsistido=)**  
