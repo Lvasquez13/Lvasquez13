@@ -53,12 +53,12 @@ Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los d
 ---
 
 ## 🤝 Conecta Conmigo
-- **LinkedIn:** [Luis Vásquez](https://www.linkedin.com/in/blandskron)  
+- **LinkedIn:** [Luis Vásquez](https://www.linkedin.com/in/luisvasquezvillarroel/)  
 - **Sitio web:** [Lavv](https://blandskron.com)  
 
 ---
 
 Credit: [Luis Vásquez](https://github.com/Lvasquez13)
 
-Last Edited on: 09/11/2022
+Last Edited on: 09/11/2025
 
