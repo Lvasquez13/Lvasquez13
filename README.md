@@ -22,7 +22,8 @@ Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los d
 
 ### Frameworks y Librerías
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-009688?style=for-the-badge&Express&logoColor=white)
+![Express.js](https://img.shields.io/badge/js-fff?style=for-the-badge&logo=express.js&logoColor=%23000000&logoSize=auto&label=express&labelColor=%23fff&color=%23FFFF00)
+
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&Express.js&logoColor=white))
 ![React](https://img.shields.io/badge/react-fff?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=auto&labelColor=black&color=%2361DAFB)
 
