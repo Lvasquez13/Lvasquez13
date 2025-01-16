@@ -39,9 +39,12 @@ Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los d
 ---
 
 ## 🏆 Certificaciones
-- **Full Stack Java™**
-- **Full Stack JS**  
-- **Full Stack Phyton™**  
+
+
+
+- **[DESARROLLADOR DE APLICACIONES FULL STACK JAVA TRAINEE™]([URL](https://eligemejor.sence.cl/PerfilNatural/DescargarCertificado?idCurso=BOTIC-SOFOF-20-14-13-0004&idFederacion=5&rutAsistido=))**
+- **[DESARROLLO DE APLICACIONES FULL STACK JAVASCRIPT TRAINEE](URL)**  
+- **[DESARROLLO DE APLICACIONES FULL STACK PYTHON TRAINEE™](URL)**  
 ---
 
 ## 🌐 Idiomas
