@@ -37,51 +37,27 @@ Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los d
 ---
 
 ## 🚀 Proyectos Destacados
-### 🔹 **Plataforma de Gestión Judicial**
-Desarrollé una aplicación avanzada que mejora los procesos legales mediante el uso de tecnologías modernas.  
-- **Stack:** Angular, Java, SQL  
-- **Impacto:** Reducción de un 30% en tiempos de respuesta para casos judiciales.  
-
-### 🔹 **Curso de Full Stack Python**
-Lideré la creación de un curso completo de Full Stack Python con un enfoque práctico.  
-- **Módulos Incluidos:** Desarrollo Front-End, Backend con Django, Bases de Datos  
-- **Resultado:** Tasa de finalización del 95% y recomendaciones destacadas.  
 
 ---
 
 ## 🏆 Certificaciones
-- **GENERATIVE AI PROFESSIONAL CERTIFICATION GAIPC™**
-- **SCRUM MASTER PROFESSIONAL CERTIFICATE SMPC**  
-- **SCRUM FOUNDATION PROFESSIONAL CERTIFICATION SFPC™**  
-- **PROMPT ENGINEERING FOUNDATION PROFESSIONAL CERTIFIC™**  
-- **SCRUM DEVELOPER PROFESSIONAL CERTIFICATION SDPC**  
-
+- **Full Stack Java™**
+- **Full Stack JS**  
+- **Full Stack Phyton™**  
 ---
 
 ## 🌐 Idiomas
 - **Español:** Nativo  
 - **Inglés:** Competencia profesional intermedia  
-- **Francés:** Nivel intermedio en progreso  
-- **Criollo haitiano:** Profesional completo  
-
 ---
 
 ## 🤝 Conecta Conmigo
-- **LinkedIn:** [Bastian Landskron](https://www.linkedin.com/in/blandskron)  
-- **Sitio web:** [blandskron.com](https://blandskron.com)  
+- **LinkedIn:** [Luis Vásquez](https://www.linkedin.com/in/blandskron)  
+- **Sitio web:** [Lavv](https://blandskron.com)  
 
 ---
 
-## 📈 GitHub Stats
-![Bastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=blandskron&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blandskron&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blandskron&theme=tokyonight)  
-
-
-
-
-
-Credit: [Abdul Khalid](https://github.com/Lvasquez13)
+Credit: [Luis Vásquez](https://github.com/Lvasquez13)
 
 Last Edited on: 09/11/2022
 
