@@ -18,8 +18,6 @@ Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-007ACC?style=for-the-badge&logo=R&logoColor=white)
 
-
-
 ### Frameworks y Librerías
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&labelColor=%23fff&color=%23092e20)
 ![Express.js](https://img.shields.io/badge/js-fff?style=for-the-badge&logo=express.js&logoColor=%23000000&logoSize=auto&label=express&labelColor=%23fff&color=%23FFFF00)
@@ -28,18 +26,11 @@ Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los d
 
 ### Librerías y Frameworks para manejo de datos
 ![Static Badge](https://img.shields.io/badge/Pandas-b1e1e9?style=for-the-badge&logo=pandas&logoColor=%23150458)
-![Static Badge](https://img.shields.io/badge/numpy-b1e1e9?style=for-the-badge&logo=numpy&logoColor=white)
+![Static Badge](https://img.shields.io/badge/numpy-b1e1e9?style=for-the-badge&logo=numpy&logoColor=%23013243)
 
 
-
-
-
-
-### Bases de Datos y DevOps
+### Bases de Datos 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ---
 
