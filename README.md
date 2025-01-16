@@ -15,8 +15,9 @@ Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los d
 ### Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Phyton](https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=Phyton&logoColor=white)
-![R](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=R&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 
 ### Frameworks y Librerías
