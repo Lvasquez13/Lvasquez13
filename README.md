@@ -1,24 +1,13 @@
 # <h1 align="center"><b>Hi , I'm Luis Vásquez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 **About me**
-
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
-
-
-# ¡Hola, soy Bastian Landskron! 👋
-
 ## 🌟 Sobre Mí
-¡Bienvenido a mi espacio en GitHub! Soy un desarrollador **Full Stack** y entusiasta de la **Inteligencia Artificial**, con una misión clara en 2025: transformar ideas innovadoras en soluciones tecnológicas de vanguardia. Trabajo constantemente en proyectos que combinan **Machine Learning**, **Deep Learning**, y **Data Science** para resolver desafíos del mundo real. 🚀
+## ¡Bienvenido a mi espacio en GitHub!
+Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los datos y su increíble potencial para resolver problemas del mundo real. Encuentro inspiración en descubrir las relaciones entre los datos y transformarlas en soluciones significativas que marquen la diferencia.Para mí, el desarrollo no es solo un trabajo, es un arte: una forma de dar vida a ideas y convertirlas en innovaciones capaces de cambiar vidas.
 
 - 🌍 **Ubicación:** Chile  
-- 💼 **Actualmente trabajando como:** Facilitador de Desarrollo de Aplicaciones Full Stack Python & Desarrollador Desktop - Web - Mobile  
 - 🌐 **Sitio web:** [blandskron.com](https://blandskron.com)  
-- 📫 **Correo:** bastianlandskronfreelancer@gmail.com  
+- 📫 **Correo:** Luis.avasquezvillarroel@gmail.com  
 
 ---
 
