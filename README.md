@@ -24,9 +24,8 @@ Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los d
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-009688?style=for-the-badge&Express&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&Express.js&logoColor=white))
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-fff?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=auto&labelColor=black&color=%2361DAFB)
+
 
 ### Bases de Datos y DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
