@@ -11,13 +11,13 @@ Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los d
 
 ## ⚙️ Tecnologías y Herramientas
 ¡Estas son algunas de las tecnologías que uso para dar vida a mis ideas!  
+<img align="right" alt="Coding" width="400" height="auto" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ### Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-007ACC?style=for-the-badge&logo=R&logoColor=white)
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ### Frameworks y Librerías
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&labelColor=%23fff&color=%23092e20)
@@ -39,11 +39,7 @@ Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los d
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-<hr width="36%" >
 
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
 
 ---
 
