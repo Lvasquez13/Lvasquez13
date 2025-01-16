@@ -21,9 +21,18 @@ Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los d
 
 
 ### Frameworks y Librerías
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&labelColor=%23fff&color=%23092e20)
 ![Express.js](https://img.shields.io/badge/js-fff?style=for-the-badge&logo=express.js&logoColor=%23000000&logoSize=auto&label=express&labelColor=%23fff&color=%23FFFF00)
 ![React](https://img.shields.io/badge/react-fff?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=auto&labelColor=black&color=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/springboot-000?style=for-the-badge&logo=springboot&logoColor=%236DB33F&labelColor=%23fff)
+
+### Librerías y Frameworks para manejo de datos
+![Static Badge](https://img.shields.io/badge/Pandas-b1e1e9?style=for-the-badge&logo=pandas&logoColor=%23150458)
+![Static Badge](https://img.shields.io/badge/numpy-b1e1e9?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+
 
 
 ### Bases de Datos y DevOps
