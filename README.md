@@ -9,11 +9,11 @@ Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los d
 
 ---
 
-## 🧰 Tecnologías y Herramientas
+## ⚙️ Tecnologías y Herramientas
 ¡Estas son algunas de las tecnologías que uso para dar vida a mis ideas!  
 
 ### Lenguajes
-![Python](https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
