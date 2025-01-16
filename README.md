@@ -1,12 +1,10 @@
 # <h1 align="center"><b>Hi , I'm Luis Vásquez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-**About me**
-## 🌟 Sobre Mí
 ## ¡Bienvenido a mi espacio en GitHub!
-Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los datos y su increíble potencial para resolver problemas del mundo real. Encuentro inspiración en descubrir las relaciones entre los datos y transformarlas en soluciones significativas que marquen la diferencia.Para mí, el desarrollo no es solo un trabajo, es un arte: una forma de dar vida a ideas y convertirlas en innovaciones capaces de cambiar vidas.
+Soy un **Desarrollador Full Stack** impulsado por una profunda pasión por los datos y su increíble potencial para resolver problemas del mundo real. Encuentro inspiración en descubrir las relaciones entre los datos y transformarlas en soluciones significativas.
 
 - 🌍 **Ubicación:** Chile  
-- 🌐 **Sitio web:** [blandskron.com](https://blandskron.com)  
+- 🌐 **Sitio web:** [Lavv](https://)  
 - 📫 **Correo:** Luis.avasquezvillarroel@gmail.com  
 
 ---
