@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00527C&size=40&duration=4000&pause=1000&lines=Hola!+Soy+Luis+Vásquez!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00527C&size=40&duration=6000&pause=4000&lines=Hola!+Soy+Luis+Vásquez!+👋)](https://git.io/typing-svg)
 
 
 
