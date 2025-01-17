@@ -1,4 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00527C&size=40&lines=Hola!+Soy+Luis+Vásquez!;Soy+desarrollador+entusiasta...;Me+apasiona+el+análisis+de+datos.;Estoy+buscando+oportunidades!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00527C&size=40&duration=4000&pause=1000&lines=Hola!+Soy+Luis+Vásquez!;Soy+desarrollador+entusiasta...;Me+apasiona+el+análisis+de+datos.;Estoy+buscando+oportunidades!)](https://git.io/typing-svg)
+
 
 
  
